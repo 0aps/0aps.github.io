@@ -1,4 +1,7 @@
 .sass-cache
 .tmp/
+<<<<<<< HEAD
 node_modules/
 app/
+=======
+>>>>>>> f370e2c457cba588b375fc0fb62645fb50e967f0
